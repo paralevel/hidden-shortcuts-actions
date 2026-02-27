@@ -5,7 +5,7 @@ __Collection of hidden actions in Shortcuts app on iOS and macOS__
 <br>
 
 __Usage__
-1. Click the action's title to install a shortcut that contains this action
+1. Click the action's title to install a shortcut which only contains this action
 2. Open the shortcut in Shortcuts app
 3. Copy the action
 4. Paste it into your own shortcut

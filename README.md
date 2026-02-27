@@ -48,7 +48,7 @@ __Usage__
 
 |[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sup><sub>iOS<sub></sup> <sub><sub>[2]</sub></sub> |
 |:-|
-|Change the Auto-Brightness value of Auto-Brightness<p><sub>__Result__<br>Auto-Brightness</sub>|
+|<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub>|
 
 |[Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sup><sub>iOS<sub></sup>|
 |:-|

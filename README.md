@@ -48,7 +48,7 @@ __Usage__
 
 |[Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
 |:-|
-|Gets a specific piece of information from the shortcuts passed into the action.<br><br><sup>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information_</sup>|
+|Gets a specific piece of information from the shortcuts passed into the action.<br><br><sup>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sup>|
 
 <br>
 
@@ -100,11 +100,11 @@ __Usage__
 
 |[Unknown User Activity](https://www.icloud.com/shortcuts/8864bb8f35f2446ebb29632d646aa440)|
 |:-|
-|_No description available._|
+|<sup>_Doesn't seem to do anything_</sup><br><br>_No description available._|
 
 |[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sup><sub>macOS<sub></sup>|
 |:-|
-|Records and plays back mouse and keyboard events.<br><br><sup>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sup>|
+|<sup>_Related to Automator's “Watch Me Do” – doesn't seem to anything_</sup><br><br>Records and plays back mouse and keyboard events.<br><br><sup>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sup>|
 
 <br>
 

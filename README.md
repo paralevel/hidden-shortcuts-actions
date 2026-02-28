@@ -7,22 +7,23 @@ __Usage__
 2. Open the shortcut
 3. Copy the action
 4. Paste it into your own shortcut
+<br>
 
-#### Safari
+__Safari__
 
-|[Clear Safari History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sub>[1]</sub></sub>|
+|[Clear Safari History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sup>iOS<sup></sub> <sub><sub>[1]</sub></sub>|
 |:-|
 |Clears history, and related cookies and other website data.<p><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub>|
 
-|[Find Safari Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f) <sup><sub>macOS<sub></sup>|
+|[Find Safari Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p><sub>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sub>|
 
-|[Open Safari Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a) <sup><sub>macOS<sub></sup>|
+|[Open Safari Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
-|[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sup><sub>macOS<sub></sup>|
+|[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>|
 
@@ -33,8 +34,9 @@ __Usage__
 |[Search Safari Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c) <sub><sub>[1]</sub></sub>|
 |:-|
 |Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub>|
+<br>
 
-#### Shortcuts
+__Shortcuts__
 
 |[Set Shortcut Attributes](https://www.icloud.com/shortcuts/039b3c89f865494aa679545060ad2722) <sub><sub>[1]</sub></sub>|
 |:-|
@@ -43,30 +45,32 @@ __Usage__
 |[Details of Shortcut](https://www.icloud.com/shortcuts/257b8ad2b05c43dd987661f335f11fef)|
 |:-|
 |Gets a specific piece of information from the shortcuts passed into the action.<p><sub>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sub>|
+<br>
 
-#### Settings
+__Settings__
 
-|[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sup><sub>iOS<sub></sup> <sub><sub>[2]</sub></sub> |
+|[Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sub><sup>iOS<sup></sub> <sub><sub>[2]</sub></sub> |
 |:-|
 |<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub>|
 
-|[Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sup><sub>iOS<sub></sup>|
+|[Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Bold Text value of Bold Text<p><sub>__Result__<br>Bold Text</sub>|
 
-|[Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297) <sup><sub>iOS<sub></sup>|
+|[Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Show Borders value of Show Borders<p><sub>__Result__<br>Show Borders</sub>|
 
-|[Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb) <sup><sub>iOS<sub></sup>|
+|[Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Differentiate Without Color value of Differentiate Without Color<p><sub>__Result__<br>Differentiate Without Color</sub>|
 
-|[On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sup><sub>iOS<sub></sup>|
+|[On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
+<br>
 
-#### Other
+__Other__
 
 |[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3)|
 |:-|
@@ -76,7 +80,7 @@ __Usage__
 |:-|
 |Gets a specific piece of information from the appearances passed into the action.<p><sub>__Result__<br>(Booleans, Appearances, Text) The piece of information</sub>|
 
-|[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sub>[1]</sub></sub>|
+|[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>iOS<sup></sub> <sub><sub>[1]</sub></sub>|
 |:-|
 |<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup>|
 
@@ -92,11 +96,12 @@ __Usage__
 |:-|
 |<sup>_Doesn't seem to do anything_</sup><p>_No description available._|
 
-|[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sup><sub>macOS<sub></sup>|
+|[Watch Me Do](https://www.icloud.com/shortcuts/900d98a6564a45a894a5d0ad700bcdb7) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Related to “Watch Me Do” in Automator app – doesn't seem to do anything_</sup><p>Records and plays back mouse and keyboard events.<br><sub>__Playback Speed__<br>Allows you to choose the playback speed of the action.</sub>|
+<br>
 
-#### Third party services
+__Third Party Services__
 
 |[Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)|
 |:-|
@@ -170,7 +175,8 @@ __Usage__
 <sub>2. [Source](https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/)</sub>
 <br>
 <br>
-#### How to find hidden Shortcuts actions
+
+__How to find hidden Shortcuts actions__
 
 1. Copy for example the hidden action in the following shortcut to the clipboard: https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/
 

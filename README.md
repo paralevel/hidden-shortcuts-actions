@@ -23,6 +23,10 @@ __Safari__
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
+|[Add Bookmark](https://www.icloud.com/shortcuts/4e7fa23d895f4eacb2baf71bbaa3c4fa) <sub><sub>[1]</sub></sub>|
+|:-|
+|<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub>|
+
 |[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>|
@@ -34,6 +38,10 @@ __Safari__
 |[Search Safari Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c) <sub><sub>[1]</sub></sub>|
 |:-|
 |Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub>|
+
+|[Close View](https://www.icloud.com/shortcuts/57b720aa437541f88ebfc9b68646bd01) <sub><sub>[1]</sub></sub>|
+|:-|
+|<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.|
 <br>
 
 __Shortcuts__
@@ -68,6 +76,18 @@ __Settings__
 |[On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
+
+|[Alert Haptics](https://www.icloud.com/shortcuts/08e99a4794a1489d80efee1a763d7579) <sub><sup>iOS<sup></sub> <sub><sub>[1]</sub></sub>|
+|:-|
+|Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub>|
+
+|[AirDrop Cellular Data](https://www.icloud.com/shortcuts/9fad11f9d33b4b10943fababa86271e8) <sub><sup>iOS<sup></sub> <sub><sub>[1]</sub></sub>|
+|:-|
+|Change the Use Cellular Data for AirDrop value of Use Cellular Data AirDrop Settings<p><sub>__Result__<br>Use Cellular Data AirDrop Settings</sub>|
+
+|[AirDrop Bring Together](https://www.icloud.com/shortcuts/67e63a854eb044eda50a2fb1b8a648e0) <sub><sup>iOS<sup></sub> <sub><sub>[1]</sub></sub>|
+|:-|
+|Change the AirDrop Bring Devices Together value of Bring Devices Together AirDrop Settings<p><sub>__Result__<br>Bring Devices Together AirDrop Settings</sub>|
 <br>
 
 __Other__
@@ -76,21 +96,21 @@ __Other__
 |:-|
 |Changes whether the selected application is locked. Locked apps require authentication to access.|
 
-|[Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
-|:-|
-|Gets a specific piece of information from the appearances passed into the action.<p><sub>__Result__<br>(Booleans, Appearances, Text) The piece of information</sub>|
-
 |[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>iOS<sup></sub> <sub><sub>[1]</sub></sub>|
 |:-|
 |<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup>|
 
-|[Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
+|[Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
 |:-|
-|Gets a specific piece of information from the ride statuses passed into the action.<p><sub>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sub>|
+|Gets a specific piece of information from the appearances passed into the action.<p><sub>__Result__<br>(Booleans, Appearances, Text) The piece of information</sub>|
 
 |[Details of Shazam](https://www.icloud.com/shortcuts/5b2a0e5a20b84c53bb5f4f388abb31d9)|
 |:-|
 |Gets a specific piece of information from the Shazam media passed into the action.<p><sub>__Result__<br>(Text, Booleans, Images, URLs) The piece of information</sub>|
+
+|[Details of Ride Status](https://www.icloud.com/shortcuts/6b146ee85c354aa7a52f83f5522dfe62)|
+|:-|
+|Gets a specific piece of information from the ride statuses passed into the action.<p><sub>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sub>|
 
 |[Unknown User Activity](https://www.icloud.com/shortcuts/8864bb8f35f2446ebb29632d646aa440)|
 |:-|

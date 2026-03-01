@@ -192,7 +192,7 @@ __Third Party Services__
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 <br>
 
-<sub>_Descriptions are taken from the individual action's Get Info dialog. Titles have sometimes been changed to a more human-friendly or descriptive name._</sub>
+<sub>_Descriptions are taken from the individual action's Get Info dialog. Some titles have been changed to a more human-friendly or descriptive name._</sub>
 
 <sub>1. [Source](https://www.reddit.com/r/shortcuts/comments/1oyatgg/sesca_the_search_for_every_shortcut_action/)</sub>
 <sub>2. [Source](https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/)</sub>

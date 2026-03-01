@@ -98,7 +98,7 @@ __Other__
 
 |[Find Focus](https://www.icloud.com/shortcuts/60127f3bc6894ea691888efdd3a8162f) <sub><sup>iOS<sup></sub>|
 |:-|
-|<sup>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sup><br><sub><sub>[1]</sub></sub>|
+|<sub>__Sort by__<br>Optionally, what to sort the focus by.<br>__Order__<br>The order to sort the focus in.<br>__Limit__<br>Whether or not to limit the number of focus retrieved.<br>__Result__<br>(Focus) The focus that match the criteria.</sub><br><sub><sub>[1]</sub></sub>|
 
 |[Details of Appearance](https://www.icloud.com/shortcuts/030b404906764c5b9eba2e356dff57b7)|
 |:-|

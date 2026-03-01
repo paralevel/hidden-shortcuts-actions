@@ -190,6 +190,9 @@ __Third Party Services__
 |[Details of Ulysses Sheets](https://www.icloud.com/shortcuts/9439a7ea647f4722be35e9e7bd0d0127)|
 |:-|
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
+<br>
+
+<sub>_Descriptions are taken from the individual action's Get Info dialog. Titles have sometimes been modified to be more human-readable or descriptive._</sub>
 
 <sub>1. [Source](https://www.reddit.com/r/shortcuts/comments/1oyatgg/sesca_the_search_for_every_shortcut_action/)</sub>
 <sub>2. [Source](https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/)</sub>
@@ -212,7 +215,7 @@ __How to find hidden Shortcuts actions__
 
 7. Paste the action into a shortcut
 ###
-You've now reconstructed the unofficial _Toggle Bold Text_ action
+If the action isn't recognised, the result will be an empty action called _Unknown Action_, but it depends on the platform, it could be that it's specific to iOS or macOS
 <br>
 <br>
 <br>

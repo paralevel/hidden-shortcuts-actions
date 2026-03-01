@@ -23,7 +23,7 @@ __Safari__
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
-|[Add Bookmark](https://www.icloud.com/shortcuts/4e7fa23d895f4eacb2baf71bbaa3c4fa)|
+|[Add Safari Bookmark](https://www.icloud.com/shortcuts/6f2c5786d8d14d8385b2089d264708bb)|
 |:-|
 |<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub><br><sub><sub>[1]</sub></sub>|
 
@@ -39,7 +39,7 @@ __Safari__
 |:-|
 |Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Close View](https://www.icloud.com/shortcuts/57b720aa437541f88ebfc9b68646bd01)|
+|[Close Safari View](https://www.icloud.com/shortcuts/17f49e6530204faaaab754c01c3d29dc)|
 |:-|
 |<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.<br><sub><sub>[1]</sub></sub>|
 <br>

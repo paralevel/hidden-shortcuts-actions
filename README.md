@@ -57,27 +57,27 @@ __Shortcuts__
 
 __Settings__
 
-|[Change Auto-Brightness](https://www.icloud.com/shortcuts/ddfad28314f94a82b2e1892cff4b850a) <sub><sup>iOS<sup></sub>|
+|[Change Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>iOS<sup></sub>|
 |:-|
 |<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub><br><sub><sub>[2]</sub></sub>|
 
-|[Change Bold Text](https://www.icloud.com/shortcuts/330ff67345174608a18fbc69ba892946) <sub><sup>iOS<sup></sub>|
+|[Change Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Bold Text value of Bold Text<p><sub>__Result__<br>Bold Text</sub>|
 
-|[Change Show Borders](https://www.icloud.com/shortcuts/7b8b7680c8fc4ed8a669da16b6573297) <sub><sup>iOS<sup></sub>|
+|[Change Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Show Borders value of Show Borders<p><sub>__Result__<br>Show Borders</sub>|
 
-|[Change Differentiate Without Color](https://www.icloud.com/shortcuts/cef71c39671b4933b30c1fcea5d050bb) <sub><sup>iOS<sup></sub>|
+|[Change Differentiate Without Color](https://www.icloud.com/shortcuts/1af814507992487dba5e9ace12c3d18f) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Differentiate Without Color value of Differentiate Without Color<p><sub>__Result__<br>Differentiate Without Color</sub>|
 
-|[Change On/Off Labels](https://www.icloud.com/shortcuts/15512c8a388e47e4a64455ad00acf0d2) <sub><sup>iOS<sup></sub>|
+|[Change On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
 
-|[Change Alert Haptics](https://www.icloud.com/shortcuts/08e99a4794a1489d80efee1a763d7579) <sub><sup>iOS<sup></sub>|
+|[Change Alert Haptics](https://www.icloud.com/shortcuts/5d64fced066d44eda50b75e89545779c) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub><br><sub><sub>[1]</sub></sub>|
 

@@ -11,19 +11,19 @@ __Usage__
 
 __Safari__
 
-|[Clear History](https://www.icloud.com/shortcuts/fc5d20e578ab4189af9bdeed46d992d7) <sub><sup>iOS<sup></sub>|
+|[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>iOS<sup></sub>|
 |:-|
 |Clears history, and related cookies and other website data.<p><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Find Bookmarks](https://www.icloud.com/shortcuts/8c09593849c242c5bdb2b7395728ac2f) <sub><sup>macOS<sup></sub>|
+|[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p><sub>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sub>|
 
-|[Open Bookmark](https://www.icloud.com/shortcuts/8f0c9870f4c54a23b4829b5619df965a) <sub><sup>macOS<sup></sub>|
+|[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>macOS<sup></sub>|
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
-|[Add Bookmark](https://www.icloud.com/shortcuts/6f2c5786d8d14d8385b2089d264708bb)|
+|[Add Bookmark](https://www.icloud.com/shortcuts/f2feffc6181d4f43b36a92fd1083ecca)|
 |:-|
 |<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub><br><sub><sub>[1]</sub></sub>|
 
@@ -35,11 +35,11 @@ __Safari__
 |:-|
 |<sup>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sup><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.<br><sub><sub>[1]</sub></sub>|
 
-|[Search Tabs](https://www.icloud.com/shortcuts/bc19535ca38e458594cf84c15457da3c)|
+|[Search Tabs](https://www.icloud.com/shortcuts/5c16cf78e39244d7864ef51481174e41)|
 |:-|
 |Perform a search of tabs in Safari.<p><sub>__Keyword__<br>The keyword to search current tabs for</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Close View](https://www.icloud.com/shortcuts/17f49e6530204faaaab754c01c3d29dc)|
+|[Close View](https://www.icloud.com/shortcuts/7255aab398ff489996b75375ef7a69c6)|
 |:-|
 |<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.<br><sub><sub>[1]</sub></sub>|
 <br>
@@ -69,7 +69,7 @@ __Settings__
 |:-|
 |Change the Show Borders value of Show Borders<p><sub>__Result__<br>Show Borders</sub>|
 
-|[Change Differentiate Without Color](https://www.icloud.com/shortcuts/1af814507992487dba5e9ace12c3d18f) <sub><sup>iOS<sup></sub>|
+|[Change Differentiate Without Color](https://www.icloud.com/shortcuts/dba18e3bacf047009ede1044eacf1d8a) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Differentiate Without Color value of Differentiate Without Color<p><sub>__Result__<br>Differentiate Without Color</sub>|
 
@@ -81,11 +81,11 @@ __Settings__
 |:-|
 |Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Toggle AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/9fad11f9d33b4b10943fababa86271e8) <sub><sup>iOS<sup></sub>|
+|[Toggle AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/cda4b9247a9c42788933a935cdce0398) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the Use Cellular Data for AirDrop value of Use Cellular Data AirDrop Settings<p><sub>__Result__<br>Use Cellular Data AirDrop Settings</sub><br><sub><sub>[1]</sub></sub>|
 
-|[Toggle AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/67e63a854eb044eda50a2fb1b8a648e0) <sub><sup>iOS<sup></sub>|
+|[Toggle AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/d1ad7a32124c4fc880a4434fd0ff6044) <sub><sup>iOS<sup></sub>|
 |:-|
 |Change the AirDrop Bring Devices Together value of Bring Devices Together AirDrop Settings<p><sub>__Result__<br>Bring Devices Together AirDrop Settings</sub><br><sub><sub>[1]</sub></sub>|
 <br>

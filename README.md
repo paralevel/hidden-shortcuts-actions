@@ -220,5 +220,30 @@ __How to find hidden Shortcuts actions__
 If the action isn't recognised, the result will be an empty action called _Unknown Action_, but it depends on the platform, it could be that it's specific to iOS or macOS
 <br>
 <br>
-<br>
+Alternatively:
+
+1. Navigate to https://www.shortcutactions.com/actions
+
+2. Open one of the unoffical actions, for example: https://www.shortcutactions.com/actions/set-safari-focus-filter
+
+3. Copy the value of `Action ID`
+
+4. Replace `com.apple.mobilesafari.CreateNewBookmark` below with the action ID you copied
+
+~~~
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WFWorkflowActionIdentifier</key>
+	<string>com.apple.mobilesafari.CreateNewBookmark</string>
+</dict>
+</plist>
+~~~
+
+5. Copy the modified code in the previous step
+
+6. Convert the clipboard content to a pasteable action with the following shortcut (requires Actions app): https://www.icloud.com/shortcuts/49dfc2487764413a88c1329703dd76d1
+
+7. Paste the action into a shortcut
 

@@ -23,6 +23,10 @@ __Safari__
 |:-|
 |<sup>_Copy of the stock iOS action_</sup><p>Opens the selected Bookmark.|
 
+|[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)|
+|:-|
+|Deletes the selected bookmarks.<br><sub>__Bookmarks__<br>Bookmarks to delete|
+
 |[Add Bookmark](https://www.icloud.com/shortcuts/f2feffc6181d4f43b36a92fd1083ecca)|
 |:-|
 |<sup>_Opens the “Add Bookmark” dialog_</sup><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub><br><sub><sub>[1]</sub></sub>|

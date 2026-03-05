@@ -96,7 +96,7 @@ __Settings__
 
 __Other__
 
-|[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3)|
+|[Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>iOS<sup></sub>|
 |:-|
 |Changes whether the selected application is locked. Locked apps require authentication to access.|
 
@@ -196,7 +196,7 @@ __Third Party Services__
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 <br>
 
-<sub>_Descriptions are taken from the individual action's Get Info dialog. Some titles have been changed to a more human-friendly or descriptive name._</sub>
+<sub>_Descriptions are taken from the individual action's Get Info dialog. Some titles and phrases have been changed to be more human-friendly or descriptive._</sub>
 
 <br>
 <br>

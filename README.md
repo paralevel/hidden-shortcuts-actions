@@ -1,12 +1,15 @@
 # Hidden Shortcut Actions
 
-__Collection of hidden actions in Shortcuts app on iOS and macOS__
+Collection of hidden actions in Shortcuts app on iOS and macOS
+
+<br>
 
 __Usage__
 1. Click the action's title to install a shortcut that contains only this action
 2. Open the shortcut
 3. Copy the action
 4. Paste it into your own shortcut
+
 <br>
 
 __Safari__

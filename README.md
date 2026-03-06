@@ -48,6 +48,91 @@ __Safari__
 |<sup>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sup><p>Closes the view in Safari.|
 <br>
 
+__Settings__
+
+|[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>macOS<sup></sub>|
+|:-|
+|<sup> • Animate opening applications<br> • Automatically hide and show the Dock<br> • Window title bar double-click action<br> • Magnification<br> • Minimize windows into application icon<br> • Minimized window animation<br> • Dock position on screen<br> • Show indicators for open applications<br> • Show suggested and recent apps in Dock<br> • Size<br>__Result__<br>Desktop & Dock Settings</sup>|
+
+|[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/842c5c3cd7ee48ffad25fb12eefa7464) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>macOS<sup></sub>|
+|:-|
+|<sup> • Announce the time<br> • Style<br> • Flash the time separators<br> • Show AM/PM<br> • Show date<br> • Show the day of the week<br> • Display the time with seconds<br> • Interval<br>__Result__<br>Menu Bar Clock Options</sup>|
+
+|[Notification Center Settings](https://www.icloud.com/shortcuts/7fd72a02da8a4584863c11b9ddcd0356) <sub><sup>macOS<sup></sub>|
+|:-|
+|<sup> • Allow notifications when the screen is locked<br> • Allow notifications when mirroring or sharing the display<br> • Allow notifications when the display is sleeping<br> • Show previews<br> • Summarize notifications<br>__Result__<br>Notification Center Settings|
+
+|[Application Notification Settings](https://www.icloud.com/shortcuts/6ba7658c0a63411fac8d4ea7ca12b587) <sub><sup>macOS<sup></sub>|
+|:-|
+|<sup> • Alert style<br> • Critical notifications<br> • Allow notifications<br> • Time sensitive notifications<br> • Badge application icon<br> • Notification grouping<br> • Play sound for notification<br> • Show in Notification Center<br> • Show notifications on lock screen<br> • Show previews<br>__Result__<br>Application Notification Settings</sup>|
+
+|[Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>iOS<sup></sub>|
+|:-|
+|<sub>_Note: only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sub>|
+
+|[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>macOS<sup></sub>|
+|:-|
+|<sub>_Note: due to a bug, the toggle won’t reflect the current state until you restart System Settings, but it's turned off if there's a yellow warning sign beneath the toggle_</sub>|
+
+|[Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>iOS<sup></sub><p>|
+|:-|
+
+|[Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>iOS<sup></sub><p>|
+|:-|
+
+|[Differentiate Without Color](https://www.icloud.com/shortcuts/dba18e3bacf047009ede1044eacf1d8a) <sub><sup>iOS<sup></sub><p>|
+|:-|
+
+|[On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>iOS<sup></sub><p>|
+|:-|
+
+|[Choose Color Filter](https://www.icloud.com/shortcuts/42c755535af343ea94d37b109d83e269) <sub><sup>macOS<sup></sub>|
+|:-|
+|<sub>_Note: you need to have Color Filters enabled to see any changes_</sub>|
+
+|[Change Alert Haptics](https://www.icloud.com/shortcuts/5d64fced066d44eda50b75e89545779c) <sub><sup>iOS<sup></sub><p>|
+|:-|
+
+|[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7c858cef3a934a3d9749f06d8f56749e) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Play User Interface Sound Effects](https://www.icloud.com/shortcuts/3734997bb2eb4a118bcb89f0525ed8ba) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Play Feedback When Volume is Changed](https://www.icloud.com/shortcuts/70fac6b7ee324f2f99f1dd1869282afa) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Natural Scrolling](https://www.icloud.com/shortcuts/3090805fb7514726928df7d4eac59c05) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Show Scroll Bars Behavior](https://www.icloud.com/shortcuts/206d91bd196a402b91dc0a21f5927912) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[Click in Scroll Bar Behavior](https://www.icloud.com/shortcuts/26008a85cd6d46bf97ae048789e1b930) <sub><sup>macOS<sup></sub><p>|
+|:-|
+
+|[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/cda4b9247a9c42788933a935cdce0398) <sub><sup>iOS<sup></sub><p>|
+|:-|
+
+|[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/d1ad7a32124c4fc880a4434fd0ff6044) <sub><sup>iOS<sup></sub><p>|
+|:-|
+<br>
+
 __Shortcuts__
 
 |[Set Shortcut Attributes](https://www.icloud.com/shortcuts/039b3c89f865494aa679545060ad2722)|
@@ -57,41 +142,6 @@ __Shortcuts__
 |[Get Details of Shortcut](https://www.icloud.com/shortcuts/770cfe1d75b246b5adae1da01ea8b550)|
 |:-|
 |Gets a specific piece of information from the shortcuts passed into the action.<p><sub>__Result__<br>(Text, Images, Numbers, File sizes, Dates) The piece of information</sub>|
-<br>
-
-__Settings__
-
-|[Change Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>iOS<sup></sub>|
-|:-|
-|<sup>_Note: Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sup><p>Change the Auto-Brightness value of Auto-Brightness<br><sub>__Result__<br>Auto-Brightness</sub>|
-
-|[Change Bold Text](https://www.icloud.com/shortcuts/28c297e31aa44a57ade8a538c5ffb0b9) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the Bold Text value of Bold Text<p><sub>__Result__<br>Bold Text</sub>|
-
-|[Change Show Borders](https://www.icloud.com/shortcuts/d8068de66bb0456ab47abae46f3168a4) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the Show Borders value of Show Borders<p><sub>__Result__<br>Show Borders</sub>|
-
-|[Change Differentiate Without Color](https://www.icloud.com/shortcuts/dba18e3bacf047009ede1044eacf1d8a) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the Differentiate Without Color value of Differentiate Without Color<p><sub>__Result__<br>Differentiate Without Color</sub>|
-
-|[Change On/Off Labels](https://www.icloud.com/shortcuts/e45bce4643f84226a6f65c19485f5b89) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the On/Off Labels value of On/Off Labels<p><sub>__Result__<br>On/Off Labels</sub>|
-
-|[Change Alert Haptics](https://www.icloud.com/shortcuts/5d64fced066d44eda50b75e89545779c) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the Alert Haptics value of Haptic options<p><sub>__Result__<br>Haptic options</sub>|
-
-|[Toggle AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/cda4b9247a9c42788933a935cdce0398) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the Use Cellular Data for AirDrop value of Use Cellular Data AirDrop Settings<p><sub>__Result__<br>Use Cellular Data AirDrop Settings</sub>|
-
-|[Toggle AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/d1ad7a32124c4fc880a4434fd0ff6044) <sub><sup>iOS<sup></sub>|
-|:-|
-|Change the AirDrop Bring Devices Together value of Bring Devices Together AirDrop Settings<p><sub>__Result__<br>Bring Devices Together AirDrop Settings</sub>|
 <br>
 
 __Other__
@@ -115,6 +165,9 @@ __Other__
 |[Get Details of Ride Status](https://www.icloud.com/shortcuts/39d199f8ed834574be0cfa7a93ca0c1e)|
 |:-|
 |Gets a specific piece of information from the ride statuses passed into the action.<p><sub>__Result__<br>(Text, Dates, Locations, Currency Amounts, Contacts) The piece of information</sub>|
+
+|[Get Firewall State](https://www.icloud.com/shortcuts/f3537f1bdc2d4d428b3a96d130532174) <sub><sup>macOS<sup></sub><p>|
+|:-|
 
 |[Unknown User Activity](https://www.icloud.com/shortcuts/8864bb8f35f2446ebb29632d646aa440)|
 |:-|
@@ -196,54 +249,9 @@ __Third Party Services__
 |Gets a specific piece of information from the Ulysses sheets passed into the action.<p><sub>__Result__<br>(Text) The piece of information</sub>|
 <br>
 
-<sub>_Descriptions are taken from the individual action's Get Info dialog. Some titles and phrases have been changed to be more human-friendly or descriptive._</sub>
+<sub>_Descriptions are taken from the individual action's Get Info dialog and are sometimes rephrased to be more human-friendly or descriptive._</sub>
 
 <br>
 <br>
 
-__How to find hidden Shortcuts actions__
-
-1. Copy for example the hidden action in the following shortcut to the clipboard: https://www.reddit.com/r/ios/comments/1h8akxn/comment/m0sgf4d/
-
-3. Convert the action in the clipboard to source with this shortcut: https://www.icloud.com/shortcuts/65d36be39c5a49cc8121e4ea652b606e
-
-3. Open a text editor and paste the converted source code
-
-4. Replace `AutoBrightness` with e.g. `BoldText` in the value for `WFWorkflowActionIdentifier` (or experiment with other entry names from Settings > Accessibility > Display & Text Size)
-
-5. Copy the edited source code to the clipboard
-
-6. Convert the clipboard content to a pasteable action with the following shortcut (requires Actions app): https://www.icloud.com/shortcuts/49dfc2487764413a88c1329703dd76d1
-
-7. Paste the action into a shortcut
-###
-If the action isn't recognised, the result will be an empty action called _Unknown Action_, but it depends on the platform, it could be that it's specific to iOS or macOS
-<br>
-<br>
-Alternatively:
-
-1. Navigate to https://www.shortcutactions.com/actions
-
-2. Open one of the unoffical actions, for example: https://www.shortcutactions.com/actions/set-safari-focus-filter
-
-3. Copy the value of `Action ID`
-
-4. Replace `com.apple.mobilesafari.CreateNewBookmark` below with the action ID you copied
-
-~~~
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>WFWorkflowActionIdentifier</key>
-	<string>com.apple.mobilesafari.CreateNewBookmark</string>
-</dict>
-</plist>
-~~~
-
-5. Copy the modified code in the previous step
-
-6. Convert the clipboard content to a pasteable action with the following shortcut (requires Actions app): https://www.icloud.com/shortcuts/49dfc2487764413a88c1329703dd76d1
-
-7. Paste the action into a shortcut
 

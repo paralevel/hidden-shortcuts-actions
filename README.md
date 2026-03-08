@@ -14,50 +14,50 @@ __Usage__
 
 __Safari__
 
-[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, and related cookies and other website data.<br><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub>
+[Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, and related cookies and other website data.<br><sub>__Time Frame__<br>Time frame of history to clear<br>__All Profiles__<br>Whether to clear history across all profiles or only the current one<br>__Close All Tabs__<br>Whether to close all open tabs when clearing history<br>__Profile__<br>The profile for which history will be cleared for</sub><p><sup>___Output:__ none_</sup>
 
 <br>
 
-[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p><sup>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.<br>__Result__<br>(Bookmark) The bookmark that match the criteria.</sup>
+[Find Bookmarks](https://www.icloud.com/shortcuts/f1bac8b295be482bbca14f6be591ff84) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p><sup>__Sort by__<br>Optionally, what to sort the bookmark by.<br>__Order__<br>The order to sort the bookmark in.<br>__Limit__<br>Whether or not to limit the number of bookmark retrieved.</sup><br><sub>___Output:__ matching bookmarks_</sub>
 
 <br>
 
-[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Bookmark.
+[Open Bookmark](https://www.icloud.com/shortcuts/656c86427f9d435fb416bd287f207c4b) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Bookmark.<p><sup>___Output:__ none_</sup>
 
 <br>
 
-[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<p>Deletes the selected bookmarks.<br><sub>__Bookmarks__<br>Bookmarks to delete</sub>
+[Delete Bookmarks](https://www.icloud.com/shortcuts/1439113460c945279a9152ceef4f0382)<p>Deletes the selected bookmarks.<br><sub>__Bookmarks__<br>Bookmarks to delete</sub><p><sup>___Output:__ none_</sup>
 
 <br>
 
-[Add Bookmark](https://www.icloud.com/shortcuts/f2feffc6181d4f43b36a92fd1083ecca)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub>
+[Add Bookmark](https://www.icloud.com/shortcuts/f2feffc6181d4f43b36a92fd1083ecca)<br><sub>_Opens the “Add Bookmark” dialog_</sub><p>Adds the current page to Bookmarks.<br><sub>__Title__<br>The optional title for a bookmark to be created with</sub><p><sup>___Output:__ none_</sup>
 
 <br>
 
-[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub>
+[Open Tab Group](https://www.icloud.com/shortcuts/a03c00999a574a8a9c0a78b92aa6282f) <sub><sup>__macOS__<sup></sub><br><sub>_Copy of the stock iOS action_</sub><p>Opens the selected Tab Group.<br><sub>__Tab Group__<br>The Tab Group to be opened in Safari (App Intent parameter description)</sub><p><sup>___Output:__ none_</sup>
 
 <br>
 
-[Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/aef09e224fbc4914908f41d65a436c12)<br><sub>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sub><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.
+[Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/aef09e224fbc4914908f41d65a436c12)<br><sub>_Actual title: “Create Tab“ – opens the tab in the current tab group, unlike the stock iOS “Create New Tab” action_</sub><p>Creates a new tab with an optional name and URL loaded, or blank if omitted.<p><sup>___Output:__ the URL if supplied or the Start Page URL if not_</sup>
 
 <br>
 
-[Search Tabs](https://www.icloud.com/shortcuts/5c16cf78e39244d7864ef51481174e41)<p>Perform a search of tabs in Safari.<br><sub>__Keyword__<br>The keyword to search current tabs for</sub>
+[Search Tabs](https://www.icloud.com/shortcuts/5c16cf78e39244d7864ef51481174e41)<p>Perform a search of tabs in Safari.<br><sub>__Keyword__<br>The keyword to search current tabs for</sub></sub><p><sup>___Output:__ none_</sup>
 
 <br>
 
-[Close View](https://www.icloud.com/shortcuts/7255aab398ff489996b75375ef7a69c6)<br><sub>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sub><p>Closes the view in Safari.
+[Close View](https://www.icloud.com/shortcuts/7255aab398ff489996b75375ef7a69c6)<br><sub>_Bookmarks, History, Reading List, Start Page, Tab Overview, Sidebar or Shared with You_</sub><p>Closes the view in Safari.</sub><p><sup>___Output:__ none_</sup>
 
 <br>
 <br>
 
 __Settings__
 
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p><sup>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size<br>__Result__<br>Desktop & Dock Settings</sup>
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><br><sub>Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sub><p><sup>___Output:__ “Dock Settings”_</sup>
 
 <br>
 
-[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/842c5c3cd7ee48ffad25fb12eefa7464) <sub><sup>__macOS__<sup></sub>
+[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/842c5c3cd7ee48ffad25fb12eefa7464) <sub><sup>__macOS__<sup></sub><p><sup>___Output:__ “Automatically hide and show the menu bar”_</sup>
 
 <br>
 
@@ -77,11 +77,11 @@ __Settings__
 
 <br>
 
-[Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) <sub><sup>__iOS__<sup></sub><br><sub>_Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sub>
+[Auto-Brightness](https://www.icloud.com/shortcuts/d75ddf36c45c488eaeb0e125b9c0ee37) (toggle) <sub><sup>__iOS__<sup></sub><br><sub>_Only “Turn off” or “Turn on” should be used and not “Toggle”, since toggling to “on” currently doesn't work_</sub><br><sub>__Output__<br>_Auto-Brightness_</sub>
 
 <br>
 
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>__macOS__<sup></sub><br><sub>_The toggle won’t reflect the current state until you restart System Settings (due to a bug), but it's turned off if there's a yellow warning sign beneath the toggle_</sub>
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/2b8740c60e6441dca18c0a4e81e54dfb) <sub><sup>__macOS__<sup></sub><br><sub>_When there's a yellow warning sign beneath the toggle it means that it's turned off, but due to a bug the state of the toggle itself doesn't change until System Settings is restarted_</sub><br><sub>__Output__<br>_Automatically adjust brightness on the main display_</sub>
 
 <br>
 

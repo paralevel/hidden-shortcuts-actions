@@ -12,7 +12,7 @@ __Usage__
 
 <br>
 
-### Safari
+> __Safari__
 
 [Clear History](https://www.icloud.com/shortcuts/3bff1910f3b34daf90fda20d6913e10e) <sub><sup>__iOS__<sup></sub><p>Clears history, related cookies and other website data in Safari<p><sup>__Parameters__<br>Last Hour • Today • Today and Yesterday • All History</sup><br><sub>_No output_</sub>
 
@@ -38,7 +38,7 @@ __Usage__
 
 <br>
 
-[Open URL/Create Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab“ – opens the URL/tab in the current tab group, unlike the stock iOS “Open URL” and “Create New Tab” actions_</sub><p>Create a new tab in Safari and optionally open a URL<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
+[Open URL/Blank Tab in Current Tab Group](https://www.icloud.com/shortcuts/781a72027b634c8c8963b6aad2a38dd6)<br><sub>_Actual title: “Create Tab“ – opens the URL/tab in the current tab group, unlike the stock iOS “Open URL” and “Create New Tab” actions_</sub><p>Create a new tab in Safari and optionally open a URL<p><sup>__Options__<br>URL</sup><br><sub>__Output__<br>The URL if supplied or the Start Page URL if not</sub>
 
 <br>
 
@@ -50,41 +50,13 @@ __Usage__
 
 <br>
 
-### Settings
-
-[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup><br><sub>__Output__<br>The generic string “Dock Settings”</sub>
-
-<br>
+> __iOS Settings__
 
 [Show Battery Percentage in Status Bar](https://www.icloud.com/shortcuts/fb45c3d68f274b96a9ec8197ca5e03d0) <sub><sup>__iOS__<sup></sub><p>Toggle the “Show Percentage” Battery setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Battery Percentage”</sub>
 
 <br>
 
-[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sub><sup>__macOS__<sup></sub><p>Change the “Automatically hide and show the menu bar” setting<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup><br><sub>__Output__<br>The generic string “Automatically hide and show the menu bar”</sub>
-
-<br>
-
-[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>__macOS__<sup></sub><p>Change the “Show menu bar background” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Show menu bar background”</sup>
-
-<br>
-
-[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Menu Bar Clock settings<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup><br><sub>__Output__<br>The generic string “Clock Options”</sub>
-
-<br>
-
-[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup><br><sub>__Output__<br>The generic string “Notification Center”</sub>
-
-<br>
-
-[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for an indiviudal application<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup><br><sub>__Output__<br>The name of the application</sub>
-
-<br>
-
 [Auto-Brightness](https://www.icloud.com/shortcuts/88b6505076d4414f8acdde41b20ba741) <sub><sup>__iOS__<sup></sub><br><sub>_Only Turn Off or Turn On should be used and not Toggle, since toggling to On currently doesn't work_</sub><p>Toggle the “Auto-Brightness” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Auto-Brightness”</sub>
-
-<br>
-
-[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/36b4d6fb9bac4e60926ff048e83b8a54) <sub><sup>__macOS__<sup></sub><br><sub>_Note: the toggle doesn't change state because of a bug (until you restart System Settings), but a yellow warning sign appears beneath the toggle when it's turned off_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
 
 <br>
 
@@ -108,23 +80,86 @@ __Usage__
 
 <br>
 
-[Set Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>The generic string “Filter type”</sub>
-
-<br>
-
 [Set Zoom Filter](https://www.icloud.com/shortcuts/ded5de5e0e924cd9a5df2c879c91c4a7) <sub><sup>__iOS__<sup></sub><br><sub>_You need to have Zoom enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Zoom Filters”<p><sup>__Parameters__<br>None • Grayscale • Grayscale Inverted • Hue Adjust • Low Light</sup><br><sub>__Output__<br>The generic string “Zoom Filter”</sub>
 
 <br>
 
 [Alert Haptics](https://www.icloud.com/shortcuts/da466ed63c784c17a35d29ffa5c45289) <sub><sup>__iOS__<sup></sub><p>Select mode for the “Alert Haptics” setting<p><sup>__Parameters__<br>Always Play • Play in Silent Mode • Don”t Play in Silent Mode • Never</sup><br><sub>__Output__<br>The generic string “Haptic options”</sub>
 
+
 <br>
 
-[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Flash the screen when an alert sound occurs”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash the screen when an alert sound occurs”</sub>
+[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” for FaceTime<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “FaceTime Silence Unknown Callers Toggle”</sub>
+
+<br>
+
+[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Start Sharing By – Bringing Devices Together”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Bring Devices Together for AirDrop”</sub>
+
+<br>
+
+[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
+
+<br>
+
+> __macOS Settings__
+
+[Sidebar Icon Size](https://www.icloud.com/shortcuts/acef10e5216e4309846544eea4895fa3) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Sidebar Icon Size”<p><sup>__Parameters__<br>Small • Medium • Large</sup><br><sub>__Output__<br>The generic string “Sidebar icon size”</sub>
+
+<br>
+
+[Tint Window Background With Wallpaper Color](https://www.icloud.com/shortcuts/b25b9dd7de0049c7a1795b018b1ffa96) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Tint window background with wallpaper color”<p><sup>__Parameters__<br>Small • Medium • Large</sup><br><sub>__Output__<br>The generic string “Tint window background with wallpaper color”</sub>
+
+<br>
+
+[Show Scroll Bars When](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Show scroll bars”<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup><br><sub>__Output__<br>The generic string “Show scroll bars”</sub>
+
+<br>
+
+[Click in Scroll Bar To](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Click in the scroll bar to”<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that”s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
+
+<br>
+
+[Desktop & Dock Settings](https://www.icloud.com/shortcuts/55a45fe74e8742728c0aa959f8cf923e) <sub><sup>__macOS__<sup></sub><p>Change one or more Desktop & Dock settings<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Animate opening applications • Automatically hide and show the Dock • Window title bar double-click action • Magnification • Minimize windows into application icon • Minimized window animation • Dock position on screen • Show indicators for open applications • Show suggested and recent apps in Dock • Size</sup><br><sub>__Output__<br>The generic string “Dock Settings”</sub>
+
+<br>
+
+[Automatically Adjust Brightness](https://www.icloud.com/shortcuts/36b4d6fb9bac4e60926ff048e83b8a54) <sub><sup>__macOS__<sup></sub><br><sub>_Note: the toggle doesn't change state because of a bug (until you restart System Settings), but a yellow warning sign appears beneath the toggle when it's turned off_</sub><p>Toggle the Displays setting “Automatically adjust brightness”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Automatically adjust brightness on the main display”</sub>
+
+<br>
+
+[Set Color Filter](https://www.icloud.com/shortcuts/f982e3422d7142279168767fd4d6c6b8) <sub><sup>__macOS__<sup></sub><br><sub>_You need to have Color Filters enabled to see any changes_</sub><p>Choose filter for the Accessibility setting “Color Filters”<p><sup>__Parameters__<br>Grayscale • Red/Green filter (Protanopia) • Green/Red filter (Deuteranopia) • Blue/Yellow filter (Tritanopia) • Color Tint</sup><br><sub>__Output__<br>The generic string “Filter type”</sub>
+
+<br>
+
+[Automatically Hide and Show the Menu Bar](https://www.icloud.com/shortcuts/16c6bfc7fcb14ef889a0a73c71423816) <sub><sup>__macOS__<sup></sub><p>Change the “Automatically hide and show the menu bar” setting<p><sup>__Parameters__<br>Always • On Desktop Only • In Full Screen Only • Never</sup><br><sub>__Output__<br>The generic string “Automatically hide and show the menu bar”</sub>
+
+<br>
+
+[Show Menu Bar Background](https://www.icloud.com/shortcuts/4b013a82a9ba49fda5f579d91341c7fb) <sub><sup>__macOS__<sup></sub><p>Change the “Show menu bar background” setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Show menu bar background”</sup>
+
+<br>
+
+[Menu Bar Clock Settings](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change one or more Menu Bar Clock settings<p><sup>__Parameters__<br>Announce the time • Style • Flash the time separators • Show AM/PM • Show date • Show the day of the week • Display the time with seconds • Interval</sup><br><sub>__Output__<br>The generic string “Clock Options”</sub>
+
+<br>
+
+[Menu Bar Fast User Switching Style](https://www.icloud.com/shortcuts/ec220408957b47ab9ad46a6d26f5d493) <sub><sup>__macOS__<sup></sub><p>Change the appearance of the Fast User Switching menu bar item<p><sup>__Parameters__<br>Full Name • Account Name • Icon</sup><br><sub>__Output__<br>The generic string “Fast User Switching menu style”</sub>
+
+<br>
+
+[Notification Center Settings](https://www.icloud.com/shortcuts/c578638d141a425f89fa9bf144474c4c) <sub><sup>__macOS__<sup></sub><p>Change one or more Notification Center settings<p><sup>__Parameters__<br>Allow notifications when the screen is locked • Allow notifications when mirroring or sharing the display • Allow notifications when the display is sleeping • Show previews • Summarize notifications</sup><br><sub>__Output__<br>The generic string “Notification Center”</sub>
+
+<br>
+
+[Application Notification Settings](https://www.icloud.com/shortcuts/1f9c0e6c26ed4b3ba2833f5c7042e30b) <sub><sup>__macOS__<sup></sub><p>Change one or more notification settings for an indiviudal application<p><sup>__Parameters__<br>Alert style • Critical notifications • Allow notifications • Time sensitive notifications • Badge application icon • Notification grouping • Play sound for notification • Show in Notification Center • Show notifications on lock screen • Show previews</sup><br><sub>__Output__<br>The name of the application</sub>
 
 <br>
 
 [Play User Interface Sound Effects](https://www.icloud.com/shortcuts/01f69b58ce0c4bf1a47ffd7bf79af2df) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play user interface sound effects”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play user interface sound effects”</sub>
+
+<br>
+
+[Flash the Screen When an Alert Sound Occurs](https://www.icloud.com/shortcuts/7f9e4a28d262482883e39a6a5e4cc2f6) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Flash the screen when an alert sound occurs”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Flash the screen when an alert sound occurs”</sub>
 
 <br>
 
@@ -134,11 +169,6 @@ __Usage__
 
 [Play Sound on Startup](https://www.icloud.com/shortcuts/e34d752371b644e08e4e66b8846957b0) <sub><sup>__macOS__<sup></sub><p>Toggle the Sound setting “Play sound on startup”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Play sound on startup”</sub>
 
-<br>
-
-[FaceTime Silence Unknown Callers](https://www.icloud.com/shortcuts/83e6c26612be43f1a8aa7fa7c0a08eea) <sub><sup>__iOS__<sup></sub><p>Toggle “Silence Unknown Callers” for FaceTime<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “FaceTime Silence Unknown Callers Toggle”</sub>
-
-<br>
 
 [Tap to Click](https://www.icloud.com/shortcuts/e31537fdbd4b4047b8a0315affe3bfb8) <sub><sup>__macOS__<sup></sub><p>Toggle the “Tap to click” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Tap to click”</sub>
 
@@ -152,23 +182,7 @@ __Usage__
 
 <br>
 
-[Show Scroll Bars Behavior](https://www.icloud.com/shortcuts/cbc83684138647239140196e76a500c4) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Show scroll bars”<p><sup>__Parameters__<br>Automatically based on mouse or trackpad • When scrolling • Always</sup><br><sub>__Output__<br>The generic string “Show scroll bars”</sub>
-
-<br>
-
-[Click in Scroll Bar Behavior](https://www.icloud.com/shortcuts/94b30eeab6104e9282f964d18e6764e8) <sub><sup>__macOS__<sup></sub><p>Change the Appearance setting “Click in the scroll bar to”<p><sup>__Parameters__<br>Jump to the next page • Jump to the spot that”s clicked</sup><br><sub>__Output__<br>The generic string “Click in the scroll bar to”</sub>
-
-<br>
-
-[AirDrop Bring Devices Together](https://www.icloud.com/shortcuts/adda1b4a5e6c49d6b8faa5512dc0fc09) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Start Sharing By – Bringing Devices Together”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Bring Devices Together for AirDrop”</sub>
-
-<br>
-
-[AirDrop Use Cellular Data](https://www.icloud.com/shortcuts/752d07f7888b4de8878e3a12fee1021e) <sub><sup>__iOS__<sup></sub><p>Toggle the AirDrop setting “Out of Range – Use Cellular Data”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use Cellular Data”</sub>
-
-<br>
-
-### Shortcuts
+> __Shortcuts__
 
 [Set Shortcut Attributes](https://www.icloud.com/shortcuts/391372497e7c425a90b92bb6bafbacf7)<p>Change an attribute for an individual shortcut<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle • Reiceive Input From Spotlight • Show in Share Sheet • Show on Apple Watch • Pin in Menu Bar • Receive What”s On Screen • Use as Quick Action • Allow Running When Locked</sup><br><sub>__Options__<br>Open When Run</sub><p><sup>_No output_</sup>
 
@@ -178,7 +192,7 @@ __Usage__
 
 <br>
 
-### Other
+> __Other__
 
 [Lock App](https://www.icloud.com/shortcuts/7fa46ae5058c4d069928c7e06596b3b3) <sub><sup>__iOS__<sup></sub><p>Changes whether the selected application is locked. Locked apps require authentication to access.<p><sup>__Parameters__<br>Lock • Unlock • Toggle</sup><br><sub>_No output_</sub>
 
@@ -204,7 +218,7 @@ __Usage__
 
 <br>
 
-### Third Party Services
+> __Third Party Services__
 
 [Add to Pinboard](https://www.icloud.com/shortcuts/018a1ed6474448f1a40ad90795952804)<p>Adds the URL passed into the action to your Pinboard – requires access to your Pinboard account<p><sup>__Output__<br>The input URL</sup>
 

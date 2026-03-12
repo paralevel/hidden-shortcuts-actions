@@ -173,7 +173,7 @@ __Usage__
 
 <br>
 
-[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Adjust the “Tracking speed” Trackpad setting<p><sup>__Parameters__<br>0.0 • 0.125 • 0.5 • 0.6875 [default] • 0.875 • 1.0 • 1.5 • 2.0 • 2.5 • 3.0</sup><br><sub>__Output__<br>The generic string “Trackpad tracking speed”</sub>
+[Trackpad Tracking Speed](https://www.icloud.com/shortcuts/ccd1705b6c2a4999aa81a30b1e228eb0) <sub><sup>__macOS__<sup></sub><p>Adjust the “Tracking speed” Trackpad setting<p><sup>__Parameters__<br>0.0 • 0.125 • 0.5 • 0.6875 • 0.875 • 1.0 • 1.5 • 2.0 • 2.5 • 3.0</sup><br><sub>__Output__<br>The generic string “Trackpad tracking speed”</sub>
 
 <br>
 

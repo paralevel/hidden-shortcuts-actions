@@ -201,6 +201,26 @@ __Usage__
 
 <br>
 
+[Trackpad Zoom In or Out](https://www.icloud.com/shortcuts/fe8a470135694186b1c1bf21911333b3) <sub><sup>__macOS__<sup></sub><p>Toggle the “Zoom in or out” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Zoom in or out”</sub>
+
+<br>
+
+[Trackpad Smart Zoom](https://www.icloud.com/shortcuts/983acd1dca2d4cb59368cdf44f431dc9) <sub><sup>__macOS__<sup></sub><p>Toggle the “Smart zoom” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Smart zoom”</sub>
+
+<br>
+
+[Trackpad Rotate](https://www.icloud.com/shortcuts/7c7f2a060caa47359d6da959321cf495) <sub><sup>__macOS__<sup></sub><p>Toggle the “Rotate” Trackpad setting<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Rotate”</sub>
+
+<br>
+
+[Trackpad Swipe Between Pages](https://www.icloud.com/shortcuts/68f1446300c0442593da362f77d7429c) <sub><sup>__macOS__<sup></sub><p>Select gesture for the “Swipe between pages” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with One Finger • Swipe with Two Fingers • Swipe with One or Two Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages”</sub>
+
+<br>
+
+[Trackpad Swipe Between Full-Screen Applications](https://www.icloud.com/shortcuts/b384ab2f3bcf479a84ac31f19be634df) <sub><sup>__macOS__<sup></sub><p><sup>_Mistakenly referred to as “Swipe between pages” in the action_</sup><p>Select gesture for the “Swipe between full-screen applications” Trackpad setting<p><sup>__Parameters__<br>Off • Swipe Left or Right with Three Fingers • Swipe Left or Right with Four Fingers</sup><br><sub>__Output__<br>The generic string “Swipe between pages” [wrong term used]</sub>
+
+<br>
+
 [Use Scroll Gesture With Modifier Keys to Zoom](https://www.icloud.com/shortcuts/0833b7dbdd7a4cf98fa67cdc858b78bf) <sub><sup>__macOS__<sup></sub><p>Toggle the Accessibility setting “Use scroll gesture with modifier keys to zoom”<p><sup>__Parameters__<br>Turn On • Turn Off • Toggle</sup><br><sub>__Output__<br>The generic string “Use scroll gesture with modifier keys to zoom”</sub>
 
 <br>
